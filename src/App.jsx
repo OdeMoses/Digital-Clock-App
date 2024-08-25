@@ -1,9 +1,9 @@
-import DigitalClockApp from "./DigitalClockApp";
+import DigitalClock from "./DigitalClockApp";
 
 function App() {
   return (
     <div>
-      <DigitalClockApp />
+      <DigitalClock />
     </div>
   );
 }
